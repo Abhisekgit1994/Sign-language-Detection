@@ -1,0 +1,26 @@
+<annotation>
+	<folder>love</folder>
+	<filename>love2.JPG</filename>
+	<path>C:\Users\abhis\OneDrive - Indiana University\Documents\INDIANA UNIVERSITY\2nd Semester\UAI\Project Data\train\love\love2.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>473</width>
+		<height>584</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Love</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>288</ymin>
+			<xmax>313</xmax>
+			<ymax>562</ymax>
+		</bndbox>
+	</object>
+</annotation>

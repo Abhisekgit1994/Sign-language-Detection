@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cheese</folder>
+	<filename>cheese1.JPG</filename>
+	<path>C:\Users\abhis\OneDrive - Indiana University\Documents\INDIANA UNIVERSITY\2nd Semester\UAI\Project Data\train\cheese\cheese1.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>667</width>
+		<height>642</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cheese</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>209</xmin>
+			<ymin>386</ymin>
+			<xmax>552</xmax>
+			<ymax>558</ymax>
+		</bndbox>
+	</object>
+</annotation>

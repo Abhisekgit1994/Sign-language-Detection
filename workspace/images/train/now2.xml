@@ -1,0 +1,26 @@
+<annotation>
+	<folder>now</folder>
+	<filename>now2.JPG</filename>
+	<path>C:\Users\abhis\OneDrive - Indiana University\Documents\INDIANA UNIVERSITY\2nd Semester\UAI\Project Data\train\now\now2.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>726</width>
+		<height>632</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Now</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>429</ymin>
+			<xmax>718</xmax>
+			<ymax>592</ymax>
+		</bndbox>
+	</object>
+</annotation>

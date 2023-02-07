@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mad</folder>
+	<filename>mad6.jpg</filename>
+	<path>C:\Users\abhis\OneDrive - Indiana University\Documents\INDIANA UNIVERSITY\2nd Semester\UAI\Project Data\train\mad\mad6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>774</xmin>
+			<ymin>540</ymin>
+			<xmax>990</xmax>
+			<ymax>766</ymax>
+		</bndbox>
+	</object>
+</annotation>

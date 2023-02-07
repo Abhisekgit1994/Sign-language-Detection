@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dad</folder>
+	<filename>dad8.jpg</filename>
+	<path>C:\Users\abhis\OneDrive - Indiana University\Documents\INDIANA UNIVERSITY\2nd Semester\UAI\Project Data\train\dad\dad8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>859</xmin>
+			<ymin>235</ymin>
+			<xmax>1205</xmax>
+			<ymax>544</ymax>
+		</bndbox>
+	</object>
+</annotation>

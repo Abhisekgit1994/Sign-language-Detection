@@ -1,0 +1,26 @@
+<annotation>
+	<folder>marriage</folder>
+	<filename>marriage1.JPG</filename>
+	<path>C:\Users\abhis\OneDrive - Indiana University\Documents\INDIANA UNIVERSITY\2nd Semester\UAI\Project Data\train\marriage\marriage1.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>533</width>
+		<height>588</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Marriage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>428</ymin>
+			<xmax>260</xmax>
+			<ymax>574</ymax>
+		</bndbox>
+	</object>
+</annotation>
