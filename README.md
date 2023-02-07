@@ -18,7 +18,7 @@ Type : Images
 
 Data collection<br>
 
-![image](https://user-images.githubusercontent.com/55094650/217384130-4ae62f47-1086-4a7b-a6df-c8ea723ca3d7.png)
+![image](https://user-images.githubusercontent.com/55094650/217385958-3603eabd-1358-44b7-a426-329de04eeee5.png)
 
 ![image](https://user-images.githubusercontent.com/55094650/217383869-ab9b2f61-6e40-4638-a33e-6aebee08a248.png)
 
